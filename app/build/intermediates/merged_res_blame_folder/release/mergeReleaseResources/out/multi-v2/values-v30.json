@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.reactionchallenge.app-mergeReleaseResources-55:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/bauroccella/.gradle/caches/8.10/transforms/f2d9786a1df4dcde402fd0efa1d84232/transformed/jetified-material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

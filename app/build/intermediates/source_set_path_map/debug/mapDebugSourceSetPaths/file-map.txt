@@ -1,0 +1,64 @@
+com.example.reactionchallenge.app-ui-release-0 /Users/bauroccella/.gradle/caches/8.10/transforms/0129e0a3535952e938c79c93647be22c/transformed/ui-release/res
+com.example.reactionchallenge.app-ui-test-manifest-1.7.3-1 /Users/bauroccella/.gradle/caches/8.10/transforms/07f6d438db2d1226da9c8d6f74d114a1/transformed/ui-test-manifest-1.7.3/res
+com.example.reactionchallenge.app-graphics-path-1.0.1-2 /Users/bauroccella/.gradle/caches/8.10/transforms/148e62cee23f96d37211da8254f3b2fa/transformed/graphics-path-1.0.1/res
+com.example.reactionchallenge.app-navigation-runtime-2.8.4-3 /Users/bauroccella/.gradle/caches/8.10/transforms/18bfa76906bb6417f854d7b77145f5d4/transformed/navigation-runtime-2.8.4/res
+com.example.reactionchallenge.app-activity-1.9.3-4 /Users/bauroccella/.gradle/caches/8.10/transforms/19eee75069fced3f30d70e458cbb6b91/transformed/activity-1.9.3/res
+com.example.reactionchallenge.app-core-runtime-2.2.0-5 /Users/bauroccella/.gradle/caches/8.10/transforms/1ca8225a4506f865b7eedad1ae4985cb/transformed/core-runtime-2.2.0/res
+com.example.reactionchallenge.app-runtime-release-6 /Users/bauroccella/.gradle/caches/8.10/transforms/1df13d536d6a6b9101d751def3f255c5/transformed/runtime-release/res
+com.example.reactionchallenge.app-sqlite-2.4.0-7 /Users/bauroccella/.gradle/caches/8.10/transforms/1f796f8d09a1c3c5918e58b5bd925de1/transformed/sqlite-2.4.0/res
+com.example.reactionchallenge.app-material-ripple-release-8 /Users/bauroccella/.gradle/caches/8.10/transforms/263baaa09ca0e6cbfae60db69c5b61ca/transformed/material-ripple-release/res
+com.example.reactionchallenge.app-activity-compose-1.9.3-9 /Users/bauroccella/.gradle/caches/8.10/transforms/2b6064120936651c4d6b0b84ab0b279f/transformed/activity-compose-1.9.3/res
+com.example.reactionchallenge.app-lifecycle-livedata-core-2.8.7-10 /Users/bauroccella/.gradle/caches/8.10/transforms/2fa8a25ef64b9f487e4f444950848826/transformed/lifecycle-livedata-core-2.8.7/res
+com.example.reactionchallenge.app-customview-poolingcontainer-1.0.0-11 /Users/bauroccella/.gradle/caches/8.10/transforms/3a57f4f74ac52ef6d5122187a3e75e49/transformed/customview-poolingcontainer-1.0.0/res
+com.example.reactionchallenge.app-ui-unit-release-12 /Users/bauroccella/.gradle/caches/8.10/transforms/4038da769a50221149811e6861bb9908/transformed/ui-unit-release/res
+com.example.reactionchallenge.app-hilt-navigation-1.2.0-13 /Users/bauroccella/.gradle/caches/8.10/transforms/43ea6d02f0f47ec6b3e56f173fc0c782/transformed/hilt-navigation-1.2.0/res
+com.example.reactionchallenge.app-lifecycle-viewmodel-savedstate-2.8.7-14 /Users/bauroccella/.gradle/caches/8.10/transforms/446c573de951b37536a14940e489eb2a/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.example.reactionchallenge.app-ui-graphics-release-15 /Users/bauroccella/.gradle/caches/8.10/transforms/4957e3f26719458c41f046e7ef0e30ca/transformed/ui-graphics-release/res
+com.example.reactionchallenge.app-core-1.13.1-16 /Users/bauroccella/.gradle/caches/8.10/transforms/4a318005fea83bc681216ab0c6494392/transformed/core-1.13.1/res
+com.example.reactionchallenge.app-foundation-release-17 /Users/bauroccella/.gradle/caches/8.10/transforms/4ae93fcee6caad5f73c8886d9c14f1e8/transformed/foundation-release/res
+com.example.reactionchallenge.app-ui-tooling-preview-release-18 /Users/bauroccella/.gradle/caches/8.10/transforms/4d648fadf83d2323c6274d083cda583a/transformed/ui-tooling-preview-release/res
+com.example.reactionchallenge.app-navigation-common-ktx-2.8.4-19 /Users/bauroccella/.gradle/caches/8.10/transforms/52528bd4ef93d72af008e6c08863b2be/transformed/navigation-common-ktx-2.8.4/res
+com.example.reactionchallenge.app-navigation-compose-2.8.4-20 /Users/bauroccella/.gradle/caches/8.10/transforms/58240bd439ac06e359f8ab73086f5ee3/transformed/navigation-compose-2.8.4/res
+com.example.reactionchallenge.app-lifecycle-viewmodel-ktx-2.8.7-21 /Users/bauroccella/.gradle/caches/8.10/transforms/697e0a2ee136664b15c7b2e2582c5396/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.example.reactionchallenge.app-foundation-layout-release-22 /Users/bauroccella/.gradle/caches/8.10/transforms/6e2e5e837e4de8fcb77ae917ef9d7227/transformed/foundation-layout-release/res
+com.example.reactionchallenge.app-room-runtime-2.6.1-23 /Users/bauroccella/.gradle/caches/8.10/transforms/6f4ec7356d9faebd45f3360c8d36b2dc/transformed/room-runtime-2.6.1/res
+com.example.reactionchallenge.app-ui-util-release-24 /Users/bauroccella/.gradle/caches/8.10/transforms/76b76525b34d8d581be33584e09d3571/transformed/ui-util-release/res
+com.example.reactionchallenge.app-lifecycle-livedata-core-ktx-2.8.7-25 /Users/bauroccella/.gradle/caches/8.10/transforms/7d48566562646ae1144ad4ff4f613f55/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.example.reactionchallenge.app-animation-core-release-26 /Users/bauroccella/.gradle/caches/8.10/transforms/7d82b43738fc1d20e98eb7e2a60a3942/transformed/animation-core-release/res
+com.example.reactionchallenge.app-ui-tooling-data-release-27 /Users/bauroccella/.gradle/caches/8.10/transforms/80678eee777d1150547263654212f29d/transformed/ui-tooling-data-release/res
+com.example.reactionchallenge.app-savedstate-1.2.1-28 /Users/bauroccella/.gradle/caches/8.10/transforms/81e0a66fb4f93f034b1437c3a4beb81f/transformed/savedstate-1.2.1/res
+com.example.reactionchallenge.app-material3-release-29 /Users/bauroccella/.gradle/caches/8.10/transforms/847395692ef42c375a9f04222032879f/transformed/material3-release/res
+com.example.reactionchallenge.app-ui-tooling-release-30 /Users/bauroccella/.gradle/caches/8.10/transforms/8f5468a7a5356e104065547f844c966e/transformed/ui-tooling-release/res
+com.example.reactionchallenge.app-lifecycle-viewmodel-release-31 /Users/bauroccella/.gradle/caches/8.10/transforms/9001702f05df717c7ef6893f39d138be/transformed/lifecycle-viewmodel-release/res
+com.example.reactionchallenge.app-room-ktx-2.6.1-32 /Users/bauroccella/.gradle/caches/8.10/transforms/92e8a78917e4679e32c41b96e33ed9c3/transformed/room-ktx-2.6.1/res
+com.example.reactionchallenge.app-runtime-saveable-release-33 /Users/bauroccella/.gradle/caches/8.10/transforms/95129be2a03971426d381e6b351cdc09/transformed/runtime-saveable-release/res
+com.example.reactionchallenge.app-lifecycle-livedata-2.8.7-34 /Users/bauroccella/.gradle/caches/8.10/transforms/9591996236ded811365279ff78fcea84/transformed/lifecycle-livedata-2.8.7/res
+com.example.reactionchallenge.app-activity-ktx-1.9.3-35 /Users/bauroccella/.gradle/caches/8.10/transforms/a46ee2d80c3ab2de5780ef6bc78f4a11/transformed/activity-ktx-1.9.3/res
+com.example.reactionchallenge.app-sqlite-framework-2.4.0-36 /Users/bauroccella/.gradle/caches/8.10/transforms/a4efab0f31796fa2771580ca86ddda46/transformed/sqlite-framework-2.4.0/res
+com.example.reactionchallenge.app-savedstate-ktx-1.2.1-37 /Users/bauroccella/.gradle/caches/8.10/transforms/a71f333d77e9c82271791ec7b4213b27/transformed/savedstate-ktx-1.2.1/res
+com.example.reactionchallenge.app-profileinstaller-1.3.1-38 /Users/bauroccella/.gradle/caches/8.10/transforms/a7297fb36a597ab94808b7dd361eb213/transformed/profileinstaller-1.3.1/res
+com.example.reactionchallenge.app-animation-release-39 /Users/bauroccella/.gradle/caches/8.10/transforms/a7389869fd2e5dfec5bfde32b779cdda/transformed/animation-release/res
+com.example.reactionchallenge.app-navigation-common-2.8.4-40 /Users/bauroccella/.gradle/caches/8.10/transforms/aad6bde78b9fc292e688241698920652/transformed/navigation-common-2.8.4/res
+com.example.reactionchallenge.app-lifecycle-runtime-ktx-release-41 /Users/bauroccella/.gradle/caches/8.10/transforms/ad28379c29ff5b81c23e34b67a26c68c/transformed/lifecycle-runtime-ktx-release/res
+com.example.reactionchallenge.app-lifecycle-process-2.8.7-42 /Users/bauroccella/.gradle/caches/8.10/transforms/b00b3372b54f1da1dd4bf13bc178a3b1/transformed/lifecycle-process-2.8.7/res
+com.example.reactionchallenge.app-lifecycle-runtime-compose-release-43 /Users/bauroccella/.gradle/caches/8.10/transforms/b755c93f86d669da7d1368cace4632dc/transformed/lifecycle-runtime-compose-release/res
+com.example.reactionchallenge.app-emoji2-1.3.0-44 /Users/bauroccella/.gradle/caches/8.10/transforms/bf48cb3210a3994d98ffd172394f1e29/transformed/emoji2-1.3.0/res
+com.example.reactionchallenge.app-ui-text-release-45 /Users/bauroccella/.gradle/caches/8.10/transforms/c54d84515aefd5ecf98d62d938f818f1/transformed/ui-text-release/res
+com.example.reactionchallenge.app-core-ktx-1.13.1-46 /Users/bauroccella/.gradle/caches/8.10/transforms/d2481d8f8abbcbe7fbcb3d2215b8025b/transformed/core-ktx-1.13.1/res
+com.example.reactionchallenge.app-annotation-experimental-1.4.1-47 /Users/bauroccella/.gradle/caches/8.10/transforms/d74ca6920987a2991b6d8b2c684827b9/transformed/annotation-experimental-1.4.1/res
+com.example.reactionchallenge.app-navigation-runtime-ktx-2.8.4-48 /Users/bauroccella/.gradle/caches/8.10/transforms/dc7d841c9b9f6025615b198e587fffcb/transformed/navigation-runtime-ktx-2.8.4/res
+com.example.reactionchallenge.app-lifecycle-viewmodel-compose-release-49 /Users/bauroccella/.gradle/caches/8.10/transforms/de50fd8b3fe23ca70e2009cbf92c082e/transformed/lifecycle-viewmodel-compose-release/res
+com.example.reactionchallenge.app-material-release-50 /Users/bauroccella/.gradle/caches/8.10/transforms/df8b2e52674f16d18fd9cbfa65682ede/transformed/material-release/res
+com.example.reactionchallenge.app-lifecycle-runtime-release-51 /Users/bauroccella/.gradle/caches/8.10/transforms/dfe109c6227bfa59532e3221d9c17ae3/transformed/lifecycle-runtime-release/res
+com.example.reactionchallenge.app-material-icons-core-release-52 /Users/bauroccella/.gradle/caches/8.10/transforms/e6443af588aa39df1440410ec697faaf/transformed/material-icons-core-release/res
+com.example.reactionchallenge.app-ui-geometry-release-53 /Users/bauroccella/.gradle/caches/8.10/transforms/ebf7c3f7d5b00a2dcac8b11babc87b16/transformed/ui-geometry-release/res
+com.example.reactionchallenge.app-hilt-navigation-compose-1.2.0-54 /Users/bauroccella/.gradle/caches/8.10/transforms/ec016f023eca5b148ce8524eeec4ce1b/transformed/hilt-navigation-compose-1.2.0/res
+com.example.reactionchallenge.app-startup-runtime-1.1.1-55 /Users/bauroccella/.gradle/caches/8.10/transforms/f6d635cd50cdf34fb71811d1034ceafd/transformed/startup-runtime-1.1.1/res
+com.example.reactionchallenge.app-fragment-1.5.1-56 /Users/bauroccella/.gradle/caches/8.10/transforms/f870c885a8e8ca0981a7493caaf31426/transformed/fragment-1.5.1/res
+com.example.reactionchallenge.app-pngs-57 /Users/bauroccella/Desktop/Entregable Godio/app/build/generated/res/pngs/debug
+com.example.reactionchallenge.app-resValues-58 /Users/bauroccella/Desktop/Entregable Godio/app/build/generated/res/resValues/debug
+com.example.reactionchallenge.app-packageDebugResources-59 /Users/bauroccella/Desktop/Entregable Godio/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.reactionchallenge.app-packageDebugResources-60 /Users/bauroccella/Desktop/Entregable Godio/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.reactionchallenge.app-debug-61 /Users/bauroccella/Desktop/Entregable Godio/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.reactionchallenge.app-debug-62 /Users/bauroccella/Desktop/Entregable Godio/app/src/debug/res
+com.example.reactionchallenge.app-main-63 /Users/bauroccella/Desktop/Entregable Godio/app/src/main/res
